@@ -13,3 +13,17 @@
     justify-content: center;
     align-items: center;
 }
+
+.wh {
+    width: 480px;
+    height: 300px;
+}
+
+.tm-social{
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
